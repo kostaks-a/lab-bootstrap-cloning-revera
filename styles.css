@@ -1,0 +1,13 @@
+#sec-section {
+    background-color: tomato;
+    padding: 30px 0 30px 0;
+    color: white;
+}
+
+.main-content {
+    margin: 40px
+}
+
+#third-section {
+    background-color: grey;
+}
